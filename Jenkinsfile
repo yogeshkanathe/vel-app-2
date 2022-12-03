@@ -5,7 +5,7 @@ pipeline {
    stages {
    stage ('stage-1'){
    steps {
-    echo "this is master file"
+    echo "this is 22Q1 file"
 }
 }
 }
